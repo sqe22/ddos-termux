@@ -1,1 +1,1 @@
-# ddos-termux
+# ddos_script.py
